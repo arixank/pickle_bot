@@ -3,7 +3,7 @@
 
 # Rotten Idea
 Pickle_bot is an automation bot that is geared towards self development of a person by motivating him, entertaining him with comics and also it sends some facts..!!
-
+The script ripens on the cloud server where it maild to the given list of mail ID's on specific day and time...! 
 ### gif may take time to load...!
 
 # Pickle Varities
