@@ -19,5 +19,5 @@ Link: https://www.youtube.com/channel/UCMJ5uaHN9srQcijCHQfW9MQ
 
 # Thanks a lot
 
-# source code riping soon...!
+# source code ripening soon...!
 
